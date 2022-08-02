@@ -10,7 +10,6 @@ idna==3.3
 numpy==1.22.2
 pandas==1.4.1
 pbr==5.8.1
-pkg_resources==0.0.0
 py-solc-x==1.1.1
 python-dateutil==2.8.2
 pytz==2021.3
